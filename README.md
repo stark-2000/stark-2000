@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/40200916/183264451-47b5c893-c26f-4862-a4d2-98918acabd6c.gif" width='40' align="left"/><h2> Hey there! I'm Dhinesh Rajasekaran</h2>
+<img alt="Night Coding" src="https://user-images.githubusercontent.com/40200916/183264451-47b5c893-c26f-4862-a4d2-98918acabd6c.gif" width='40' align="left"/> <h2>Hey there! I'm Dhinesh Rajasekaran</h2>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/78305300/208219678-1db9974a-cee5-46f4-87c0-5d4fd65457f5.png" width="350" height="425"
@@ -6,10 +6,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Budding Robotics Engineer with knowledge in state of the art Embedded systems, Product development & Digital circuit design. Perfection, Diligence and Technical expertise displayed through multiple long-term projects and short-term research work.
+💡 &nbsp;Budding Robotics Engineer with knowledge in state of the art Embedded systems, Product development & Digital circuit design. Perfection, Diligence and Technical expertise 
+         displayed through multiple long-term projects and short-term research work.
 🎓 &nbsp;I'm currently pursuing Masters in Robotics at the University of Maryland, College Park.\
 💬 &nbsp;Feel free to reach out to me for any suggestions, help, or for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at dhinesh@umd.edu. \
+✉️ &nbsp;You can shoot me an email at dhinesh@umd.edu.\
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -23,6 +24,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=for-the-badge&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)&nbsp;
+![Arduino](https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg)&nbsp;
 <br><br>
 <br><br>
 
