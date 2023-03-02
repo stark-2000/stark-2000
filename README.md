@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/40200916/183264451-47b5c893-c26f-4862-a4d2-98918acabd6c.gif" width='40' align="left"/> <h2>Hey there! I'm Dhinesh Rajasekaran</h2>
+<h2>Hey there! I'm Dhinesh Rajasekaran</h2>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/78305300/208219678-1db9974a-cee5-46f4-87c0-5d4fd65457f5.png" width="350" height="425"
