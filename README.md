@@ -2,9 +2,10 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;A budding Robotics Engineer passionate about autonomous mobile robots as well as state-of-the-art Embedded systems, Perception & Digital circuit design.\
-🎓 &nbsp;I'm currently pursuing Masters in Robotics at the University of Maryland, College Park.\
-💬 &nbsp;Feel free to reach out to me for any suggestions, help, or for some interesting discussion.\
+- 👀 I’m interested in Autonomous Mobile Robots, Perception & Embedded Systems.\
+- 🌱 I am pursuing Masters in Robotics at University of Maryland.\
+- 👯 I’m looking to collaborate on anything that cover my interests!
+- 📫 You can reach me at [dhineshrajasekaran@gmail.com](dhineshrajasekaran@gmail.com)
 
 ### 🛠 &nbsp;Tech Stack
 
