@@ -5,7 +5,7 @@
 💡 &nbsp;Budding Robotics Engineer with knowledge in state of the art Embedded systems, Product development & Digital circuit design. Perfection, Diligence and Technical expertise displayed through multiple long-term projects and short-term research work.\
 🎓 &nbsp;I'm currently pursuing Masters in Robotics at the University of Maryland, College Park.\
 💬 &nbsp;Feel free to reach out to me for any suggestions, help, or for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at dhinesh@umd.edu.\
+✉️ &nbsp;You can shoot me an email at dhinesh@umd.edu.
 
 ### 🛠 &nbsp;Tech Stack
 
