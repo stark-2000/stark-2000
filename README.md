@@ -2,7 +2,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;As a budding Robotics Engineer, I am passionate about autonomous mobile robots as well as state-of-the-art Embedded systems, Perception, and Digital circuit design. I pride myself on my attention to detail, diligence, and technical expertise, which I have honed through multiple long-term projects and short-term research work.\
+💡 &nbsp;A budding Robotics Engineer passionate about autonomous mobile robots as well as state-of-the-art Embedded systems, Perception & Digital circuit design.\
 🎓 &nbsp;I'm currently pursuing Masters in Robotics at the University of Maryland, College Park.\
 💬 &nbsp;Feel free to reach out to me for any suggestions, help, or for some interesting discussion.\
 
