@@ -1,9 +1,8 @@
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/40200916/183264451-47b5c893-c26f-4862-a4d2-98918acabd6c.gif" width='40' align="left"/> <h2>Hey there! I'm Dhinesh Rajasekaran</h2>
+### 👋 Hi there, I’m Dhinesh !
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;Budding Robotics Engineer with knowledge in state of the art Embedded systems, Product development & Digital circuit design. Perfection, Diligence and Technical expertise 
-         displayed through multiple long-term projects and short-term research work.
+💡 &nbsp;Budding Robotics Engineer with knowledge in state of the art Embedded systems, Product development & Digital circuit design. Perfection, Diligence and Technical expertise displayed through multiple long-term projects and short-term research work.\
 🎓 &nbsp;I'm currently pursuing Masters in Robotics at the University of Maryland, College Park.\
 💬 &nbsp;Feel free to reach out to me for any suggestions, help, or for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at dhinesh@umd.edu.\
