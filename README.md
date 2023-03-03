@@ -22,7 +22,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 ![Dhinesh's github stats](https://github-readme-stats.vercel.app/api?username=stark-2000&show_icons=true&theme=radical)
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stark-2000&layout=compact&langs_count=8&theme=algolia"/>
+<img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stark-2000&layout=compact&langs_count=8&theme=algolia"/>
 
 <!-- <p align="center">
 <a href="https://github.com/stark-2000">
