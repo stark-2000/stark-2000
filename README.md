@@ -43,7 +43,7 @@
     - [click here](https://github.com/stark-2000/UR5_Pick-Place_Hardware)
 
  - Endobot---Pipeline-Inspection-Robot
-    - Endobot 2.0, a tethered pipeline inspection robot which can detect leaks, corrosion and defects on pipelines as small as 4 inch up-to a depth of 300 meters and can withstand 5 bar underwater pressure. It uses RS422 long distance data transfer protocol for camera feed & data transfer. The robot can be fully controlled from outside the pipeline using sophisticated controllers which enable 4 wheel drive and advanced transmission. Onboard IMU & Encoders enable accurate localisation & distance calculation of the robot. Realtime motor temp, indoor temp, pipeline leak sounds, current consumption, inclination calculation is all performed and displayed on a mini LCD screen.
+    - Endobot 2.0, a tethered pipeline inspection robot which can detect leaks, corrosion and defects on pipelines as small as 4 inch up-to a depth of 300 meters and can withstand 5 bar underwater pressure. The robot can be fully controlled from outside the pipeline using sophisticated controllers which enable 4 wheel drive and advanced transmission. Onboard IMU & Encoders enable accurate localisation & distance calculation of the robot. Realtime motor temp, indoor temp, pipeline leak sounds, current consumption, inclination calculation is all performed and displayed on a mini LCD screen.
     - [click here](https://github.com/stark-2000/Endobot---Pipeline-Inspection-Robot)
 
  - Mono-Camera Human Pose Estimation and Tracking using openCV
