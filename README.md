@@ -30,25 +30,25 @@
 
 ### 🔧 Projects
 
- - Head Gear - Bone Conduction & Accident Prevention Smart Helmet
-    - Designed & developed a prototype which enhances rider experience & prevents accidents by providing real-time warnings & alerts during distracted driving, accident detection feature embedded HUD & bone conduction earphone for seamless ADAS experience for bike riders.
-    - [click here](https://github.com/stark-2000/Head-Gear)
-
+ - Hardware Implementation of Pick & Place Operation using UR5e
+    - Developed and programmed Universal Robot's robotic manipulator for a basic pick and place operation. Wrote our custom IK solver which is deployed on hardware using MoveIT and ROS 2. Working towards implementing actions like drawing on a board.
+    - [click here](https://github.com/stark-2000/UR5_Pick-Place_Hardware)
+    
+ - Mono-Camera Human Pose Estimation and Tracking using openCV
+    - Developed an algorithm using openCV and laptop web camera for human pose estimation in 3D which gives cartesian coordinates of human in 3D with depth information. It is capable of tracking humans from frame to frame and assigning unique IDs.
+    - [click here](https://github.com/stark-2000/Mono-Camera-Human-Pose-Estimation-and-Tracking-using-openCV)
+   
+ - Endobot---Pipeline-Inspection-Robot
+    - Endobot 2.0, a tethered pipeline inspection robot which can detect leaks, corrosion and defects on pipelines as small as 4 inch up-to a depth of 300 meters and can withstand 5 bar underwater pressure. The robot can be fully controlled from outside the pipeline using sophisticated controllers which enable 4 wheel drive and advanced transmission. Onboard IMU & Encoders enable accurate localisation & distance calculation of the robot. Realtime motor temp, indoor temp, pipeline leak sounds, current consumption, inclination calculation is all performed and displayed on a mini LCD screen.
+    - [click here](https://github.com/stark-2000/Endobot---Pipeline-Inspection-Robot)
+    
  - Smart Kitchen Robot for Automatic Stuffing & Making of Famous Indian Bread Variety
     - We have Designed and built world’s first fully automated & compact robot that only requires wheat and water to be filled in containers, stuffed parathas / chapatis are made, stacked and stored in hotboxes with smart IOT control. The machine is low cost and would be similar to a microwave oven in both size and cost.
     - [click here](https://github.com/stark-2000/ACMM)
 
- - Hardware Implementation of Pick & Place Operation using UR5e
-    - Developed and programmed Universal Robot's robotic manipulator for a basic pick and place operation. Wrote our custom IK solver which is deployed on hardware using MoveIT and ROS 2. Working towards implementing actions like drawing on a board.
-    - [click here](https://github.com/stark-2000/UR5_Pick-Place_Hardware)
-
- - Endobot---Pipeline-Inspection-Robot
-    - Endobot 2.0, a tethered pipeline inspection robot which can detect leaks, corrosion and defects on pipelines as small as 4 inch up-to a depth of 300 meters and can withstand 5 bar underwater pressure. The robot can be fully controlled from outside the pipeline using sophisticated controllers which enable 4 wheel drive and advanced transmission. Onboard IMU & Encoders enable accurate localisation & distance calculation of the robot. Realtime motor temp, indoor temp, pipeline leak sounds, current consumption, inclination calculation is all performed and displayed on a mini LCD screen.
-    - [click here](https://github.com/stark-2000/Endobot---Pipeline-Inspection-Robot)
-
- - Mono-Camera Human Pose Estimation and Tracking using openCV
-    - Developed an algorithm using openCV and laptop web camera for human pose estimation in 3D which gives cartesian coordinates of human in 3D with depth information. It is capable of tracking humans from frame to frame and assigning unique IDs.
-    - [click here](https://github.com/stark-2000/Mono-Camera-Human-Pose-Estimation-and-Tracking-using-openCV)
+ - Head Gear - Bone Conduction & Accident Prevention Smart Helmet
+    - Designed & developed a prototype which enhances rider experience & prevents accidents by providing real-time warnings & alerts during distracted driving, accident detection feature embedded HUD & bone conduction earphone for seamless ADAS experience for bike riders.
+    - [click here](https://github.com/stark-2000/Head-Gear)
 
  - Black Box Device for Vessels & Fisherman
     - Designed and implemented a tamper-proof solar powered black box device which is capable of logging & sending all essential information of a remote vessel moving in ocean to a virtual dashboard in the coast guard control room where potential threats & alerts are provided on the dashboard based on vessel activity.
