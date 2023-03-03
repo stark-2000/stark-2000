@@ -28,7 +28,7 @@
 <img src="https://komarev.com/ghpvc/?username=stark-2000&color=blueviolet&&style=for-the-badge">
 </p>
 
-### 🔧 &nbsp;Projects:
+### 🔧 Projects
 
  - Head Gear - Bone Conduction & Accident Prevention Smart Helmet
     - Designed & developed a prototype which enhances rider experience & prevents accidents by providing real-time warnings & alerts during distracted driving, accident detection feature embedded HUD & bone conduction earphone for seamless ADAS experience for bike riders.
