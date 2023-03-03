@@ -24,19 +24,9 @@
 <!-- ![Dhinesh's github stats](https://github-readme-stats.vercel.app/api?username=stark-2000&show_icons=true&theme=radical) -->
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stark-2000&show_icons=true&theme=radical"> <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stark-2000&layout=compact&langs_count=8&theme=algolia"> 
 
-<p align="center">
+<p align="left">
 <img src="https://komarev.com/ghpvc/?username=stark-2000&color=blueviolet&&style=for-the-badge">
 </p>
-<!-- <p align="center">
-<a href="https://github.com/stark-2000">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=stark-2000&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=stark-2000&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-  <br><br>
-  <img src="https://komarev.com/ghpvc/?username=stark-2000&color=blueviolet&&style=for-the-badge">
-</p> -->
-
-
 
 ### 🔧 &nbsp;Projects:
 
