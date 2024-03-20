@@ -3,7 +3,7 @@
 ### 👨🏻‍💻 About Me
 
 - 👀 I’m interested in Autonomous Mobile Robots, Perception & Embedded Systems.
-- 🌱 I am pursuing Masters in Robotics at University of Maryland.
+- 🌱 Masters in Robotics from University of Maryland.
 - 👯 I’m looking to collaborate on anything that cover my interests!
 - 📫 You can reach me at [dhineshrajasekaran@gmail.com](mailto:dhineshrajasekaran@gmail.com)
 
